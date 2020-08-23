@@ -13,7 +13,7 @@ import java.util.ResourceBundle;
  **/
 public class PropertitesTest
 {
-    @Test
+  /*  @Test
     public void test1(){
         System.out.println("解析properties文件开始");
 
@@ -32,5 +32,5 @@ public class PropertitesTest
             System.out.println("key="+key+"value="+value);
 
         }
-    }
+    }*/
 }

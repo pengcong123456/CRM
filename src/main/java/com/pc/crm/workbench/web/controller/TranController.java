@@ -7,7 +7,6 @@ import com.pc.crm.utils.DateTimeUtil;
 import com.pc.crm.utils.PrintJson;
 import com.pc.crm.utils.ServiceFactory;
 import com.pc.crm.utils.UUIDUtil;
-import com.pc.crm.vo.PaginationVO;
 import com.pc.crm.workbench.domain.Tran;
 import com.pc.crm.workbench.domain.TranHistory;
 import com.pc.crm.workbench.service.CustomerService;
@@ -15,7 +14,6 @@ import com.pc.crm.workbench.service.TranService;
 import com.pc.crm.workbench.service.impl.CustomerServiceImpl;
 import com.pc.crm.workbench.service.impl.TranServiceImpl;
 
-import javax.servlet.ServletContext;
 import javax.servlet.ServletException;
 import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
